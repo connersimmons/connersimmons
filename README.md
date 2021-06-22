@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Check out some of my blog posts on [connersimmons.dev]()!
+Check out some of my blog posts on [connersimmons.dev](https://connersimmons.dev)!
