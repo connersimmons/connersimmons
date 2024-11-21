@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Conner 👋
 
 <!--
 **connersimmons/connersimmons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Check out some of my blog posts on [connersimmons.dev](https://connersimmons.dev)!
+Senior Technical Product Marketing Manager (TPMM) at OutSystems. Previously TPMM and Product Evangelist at Ionic. Not too long ago I served as a Software Engineer and Engineering Leader.
+
+For more about me and some of my past work, visit [connersimmons.dev](https://connersimmons.dev)!
