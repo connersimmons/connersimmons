@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Senior Technical Product Marketing Manager (TPMM) at OutSystems. Previously TPMM and Product Evangelist at Ionic. Not too long ago I served as a Software Engineer and Engineering Leader.
+Currently running Technical Product Marketing at [WorkOS](https://workos.com/). Previously [OutSystems](https://www.outsystems.com/), [Ionic](https://ionic.io/), [Dodge Construction Network](https://www.construction.com/), and [Blue Book Construction Network](https://www.thebluebook.com/).
 
 For more about me and some of my past work, visit [connersimmons.dev](https://connersimmons.dev)!
